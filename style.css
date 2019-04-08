@@ -37,9 +37,13 @@ body {
 /* Cover */
 .container {
     display: flex;
-    justify-content: center;
-    align-items: center;
+   /* justify-content: center;
+    align-items: center; */
     height: 45vh;
+}
+.img {
+    height: 100%
+    width: 100%;
 }
 /* Project grid */
 .grid-wrapper {
