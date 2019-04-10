@@ -6,6 +6,10 @@
     margin: 0;
     justify-content: right;
 }
+.sticky {
+    position: fixed;
+    width: 100%;
+}
 li {
     padding: 20px;
 }
